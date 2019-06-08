@@ -1,0 +1,103 @@
+{
+  "name": "Alaa AbdAllah AbdAllah",
+  "position": "Full-stack Web Developer",
+  "about": "I'm a full-stack web developer, I have an extensive experience with PHP, OOP, JavaScript, SQL, Laravel, VueJs, Vuex, Router, Anuglar 1.x, CMS, GIT, Bootstrap, Materialize, ChartsJs, HighCharts, Html, Html5, Css, Css3, Sass, Sockets, VanillaJs, jQuery, Semantic UI, JSON, Ajax, MVC, API, Real-time notifications, Generating PDF Invoices and templates, Scheduled Tasks, Automated Emails.",
+  "contact": [
+    {"icon": "envelope-solid.png", "value": "Alaa.Abdallah.a97@gmail.com"},
+    {"icon": "phone-solid.png", "value": "+2-01114134482"},
+    {"icon": "map-marker-alt-solid.png", "value": "El-Hawamdya, Giza"},
+    {"icon": "calendar-alt-solid.png", "value": "Sep 25, 1997"}
+  ],
+  "skills": [
+    {
+      "title": "Languages",
+      "skills": [
+        {"name": "Arabic", "progress": 100},
+        {"name": "English", "progress": 90},
+        {"name": "Spanish", "progress": 30}
+      ]
+    }, {
+      "title": "Skills",
+      "skills": [
+        {"name": "Microsoft Office", "progress": 100},
+        {"name": "Photoshop", "progress": 40}
+      ]
+    }, {
+      "title": "Soft Skills",
+      "skills": [
+        {"name": "Analytical Thinking", "progress": 100},
+        {"name": "Multi Tasking", "progress": 100},
+        {"name": "Team Work", "progress": 100},
+        {"name": "Attention To Details", "progress": 100}
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "title": "Experience",
+      "items": [
+        {
+          "title": "Full-stack Developer",
+          "description": "PHP | OOP | SQL | Javascript | VanillaJs | HTML | CSS | CSS3 | Sass",
+          "place": "SASBIT  - Remotely - Full-time",
+          "date": "Des 2018 - Present"
+        },{
+          "title": "Full-stack Developer",
+          "description": "PHP | Laravel | OOP | SQL | Api | Laravel Passport | RealTime | Javascript | VueJs | SPA | Element IO | Materialize | ChartsJs | HighCharts | Html | CSS | Sass",
+          "place": "Enso-Concepts - Remotely - Part-time",
+          "date": "Feb 2018 - Nov 2018"
+        }, {
+          "title": "Full-stack Developer",
+          "description": "Social dating web application, PHP | Laravel | Sockets | Javascript | VueJs | Vuetify | Vuex | Router | RealTime Chat | Html | CSS | Sass",
+          "place": "MarMosque - Remotely - Part-time",
+          "date": "June 2018 - Sep 2018"
+        }, {
+          "title": "Front-end Developer",
+          "description": "Javascript | VueJs | VanillaJs | SPA | API | HTML | CSS | CSS3 | Sass",
+          "place": "Geo Tech - Remotely - Full-time",
+          "date": "Nov 2017 - June 2018"
+        }
+      ]
+    }, {
+      "title": "Education",
+      "items": [
+        {
+          "title": "Faculty of commerce",
+          "place": "Cairo University - Fourth Year",
+          "description": "Accounting department with a very good average grade.",
+          "date": "Sep 2015 - June 2019"
+        }
+      ]
+    }, {
+      "title": "Courses",
+      "items": [
+        {
+          "title": "English Course | Intermediate Level",
+          "place": "MODLI",
+          "description": "The course concentrates on the development of Listening, Reading, formal Writing skills, and Speaking.",
+          "date": "Dec 2018 - Present"
+        }
+      ]
+    }, {
+      "title": "Extracurricular Activities",
+      "items": [
+        {
+          "title": "Member Logistic",
+          "place": "MAAAN Foundation",
+          "description": "Reserving the halls for conferences. Organizing, follow up with the participants and do facilities to make the conference goes well.",
+          "date": "Oct 2016 - Dec 2018"
+        }, {
+          "title": "Member IGE",
+          "place": "AIESEC",
+          "description": "Helping students to find a proper position at startup companies in Egypt.",
+          "date": "April 2017 - Jan 2018"
+        }, {
+          "title": "Volunteer",
+          "place": "Resala Association",
+          "description": "Teaching the subjects for Primary students.",
+          "date": "Feb 2014 - March 2015"
+        }
+      ]
+    }
+  ]
+}

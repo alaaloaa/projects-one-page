@@ -1,0 +1,119 @@
+https://laravel.com/docs/5.6/queries#raw-expressions
+https://laravel.com/docs/5.6/queries#conditional-clauses
+https://laravel.com/docs/5.6/queries#updates
+https://laravel.com/docs/5.6/queries#pessimistic-locking
+https://laravel.com/docs/5.6/eloquent-relationships#many-to-many
+
+composer create-project --prefer-dist laravel/laravel blog 5.4
+
+cd C:\xampp\htdocs\alaa\vue\a4ta8l\a4ta8l\chat && node app.js
+cd C:\xampp\htdocs\alaa\vue\a4ta8l\a4ta8l && npm run dev && npm run watch
+cd C:\xampp\htdocs\alaa\vue\a4ta8l\a4ta8l && php artisan serve
+
+php artisan serve
+php artisan make:migration create_name_table
+php artisan migrate
+php artisan migrate:refresh
+php artisan make:model
+php artisan make:controller
+php artisan make:auth
+php artisan storage:link
+composer require laravel/passport "4.0.3"
+php artisan cache:clear && php artisan config:cache && php artisan clear-compiled && composer dump-autoload
+
+DROP DATABASE 48l;
+CREATE DATABASE 48l
+
+php artisan make:seeder skillsTableSeeder
+
+php artisan db:seed --class=usersTableSeeder  &&
+php artisan db:seed --class=DatabaseSeeder && php artisan db:seed --class=jobsTableSeeder && php artisan db:seed --class=job_skillsTableSeeder  
+php artisan db:seed --class=CountriesTableSeeder
+
+
+php artisan db:seed
+BrandsTableSeeder
+ProductsTableSeeder
+
+DB::enableQueryLog();
+
+return DB::getQueryLog();
+
+https://stackoverflow.com/questions/10317974/mysql-php-error2002-only-one-usage-of-each-socket-address-protocol-network-a
+regedit
+TcpTimedWaitDelay
+REG_DWORD: 0000001e (hex)
+
+MaxUserPort
+REG_DWORD: 0000fffe (hex)
+
+TcpNumConnections
+REG_DWORD: 00fffffe (hex)
+
+TcpMaxDataRetransmissions
+REG_DWORD: 00000005 (hex)
+
+// site for bootstrap examples
+https://silviomoreto.github.io/bootstrap-select/examples/
+
+
+http://localhost/alaa/eCommerce/admin/
+
+
+https:/https://academy.hsoub.com/programming/php/laravel/%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D8%B3%D9%84%D8%A9-%D9%85%D8%B4%D8%AA%D8%B1%D9%8A%D8%A7%D8%AA-%D9%81%D9%8A-laravel-5-r228/
+
+
+
+
+English Links
+https://www.classifiedads.com/search.php?keywords=singles+dating&cid=326&from=a
+https://www.easylanguageexchange.com/members/yunalesca001/ 
+https://www.myenglishteacher.eu/blog/your-top-10-language-exchange-websites-for-speaking-english-fluently/
+https://www.myenglishteacher.eu/blog/your-top-10-language-exchange-websites-for-speaking-english-fluently/
+https://www.fluentu.com/blog/english/practice-english-online/
+https://www.nypl.org/blog/2012/11/28/11-great-free-websites-practice-english
+https://www.busuu.com/dashboard#/timeline/regular/a2
+https://www.fluentin3months.com/forum/find-a-conversation-exchange/
+https://www.meetup.com/
+http://www.lingoglobe.com/en/welcome
+https://www.meetup.com/LanguageNYC/members/30274692/
+https://courses.fluentin3months.com/p/the-language-gym?utm_source=hellobar+tlg&utm_medium=site&utm_campaign=hellobars&utm_term=hellobar+tlg&utm_content=hellobar+tlg+teachable&src=hellobar-tlg
+
+
+cd c:/xampp\htdocs\alaa\router\vue-router
+npm cache clean --force
+
+/* to make map works */
+npm install babel-preset-stage-2 --save-dev
+
+/* to bind image */
+ :style="{ backgroundImage: 'url(' + userData.avatar + ')' }"
+
+
+localhost/socket/index.html // front end
+
+161537
+/* passport */ 
+php artisan migrate && php artisan passport:install && php artisan passport:keys && php artisan vendor:publish --tag=passport-views
+
+
+C:\xampp\htdocs\alaa\dareloloom\sasbitsiteteam-schoolsite-03df7f61a32b
+/* Git Up And BitBacket */
+git add --all
+git commit -m "new commit"
+git push
+
+git config --global user.name "Alaa AbdAllah" 
+git config --global user.email "alaa.abdallah.a97@gmail.com" 
+git config --global credential.helper "cache --timeout=36000"
+
+/*express */
+cd C:\xampp\htdocs\alaa\node\myapp && > set DEBUG=myapp:* & npm start
+
+
+/* compress imgs */
+https://compressnow.com/
+https://imagecompressor.com/
+
+
+RSfdbdfAS#%YFsgs!563F
